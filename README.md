@@ -1,4 +1,4 @@
-# Hospital-Emergency-Room-Data-Analysis
+# Healthcare-Data-Analysis
 ## 📌 Project Overview
 ### In this project, I designed a dynamic and interactive dashboard using Power BI to analyze hospital performance metrics. The goal was to provide hospital administrators and stakeholders with data-backed insights to drive decisions around:
 
